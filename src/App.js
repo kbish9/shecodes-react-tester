@@ -12,7 +12,7 @@ export default function Weather() {
       <Search />
       <City />
       <Temp />
-      <a href= "https://github.com/kbish9/React-Weather">Open Source code - Kelsey Bishop</a>
+      <a href= "https://github.com/kbish9/React-Weather">Open Source code by Kelsey Bishop</a>
     </div>
   );
 }
