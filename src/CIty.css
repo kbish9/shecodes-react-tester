@@ -1,0 +1,20 @@
+h1 {
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 10px;
+    text-transform: capitalize;
+  }
+  .card {
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 2px 3px #e7e7e7;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  #current {
+    padding: 48px;
+  }
+  

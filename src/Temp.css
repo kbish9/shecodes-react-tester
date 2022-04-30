@@ -1,0 +1,48 @@
+.card {
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 2px 3px #e7e7e7;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .card-today {
+    display: block;
+    padding: 50px;
+  }
+  .tempToday {
+    font-size: 50px;
+  }
+  .card-temp {
+    font-size: 40px;
+    font-weight: 600;
+  }
+  .card-day {
+    font-weight: bold;
+    font-size: 22px;
+  }
+  #c-link {
+    position: relative;
+    font-size: 18px;
+    top: -20px;
+  }
+  .active {
+    color: black;
+    cursor: default;
+    text-decoration: none;
+  }
+  .active:hover {
+    text-decoration: none;
+    color: black;
+  }
+  #f-link {
+    position: relative;
+    font-size: 18px;
+    top: -20px;
+  }
+  .divider {
+    position: relative;
+    font-size: 18px;
+    top: -20px;
+  }
+  

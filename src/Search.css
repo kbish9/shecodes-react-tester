@@ -1,0 +1,21 @@
+#city-input {
+    background-color: #f2f2f2;
+    margin-left: 10px;
+    border-radius: 5px;
+    width: 750px;
+  }
+  #button {
+    background-color: #63625e;
+    color: #fff;
+    border-radius: 5px;
+    width: 120px;
+    margin-left: 10px;
+  }
+  #location {
+    background-color: #63625e;
+    color: #fff;
+    border-radius: 5px;
+    width: 180px;
+    margin-left: 10px;
+  }
+  
